@@ -1,7 +1,7 @@
 # ShopEasy
 Ecommerce Website
 
-**User Ecommerce Website**
+# **User Ecommerce Website**
 
 **1. Home Page:**
 
@@ -24,7 +24,7 @@ For the front-end, you can use HTML for structuring the content, CSS for styling
 
 
 
-**Sellers Ecommerce Website**
+# **Sellers Ecommerce Website**
 
 **1. Seller Dashboard:**
 
